@@ -1,0 +1,198 @@
+2025-03-05 11:06:44 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 2.0.2
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 11:06:58 - py.warnings - WARNING - /Users/paroniasun/Downloads/test/src/main.py:12: RuntimeWarning: coroutine 'MainWindow.start_translation' was never awaited
+  sys.exit(app.exec())
+
+2025-03-05 11:11:46 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 2.0.2
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 11:13:09 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 2.0.2
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 11:16:17 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 2.0.2
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 11:36:48 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 11:39:23 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 11:40:20 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 11:42:46 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 11:42:54 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 11:44:19 - src.translation.deepseek_api - ERROR - 翻译API请求失败: 404 Client Error: Not Found for url: https://api.deepseek.com/v1/translate
+2025-03-05 11:44:20 - src.translation.deepseek_api - ERROR - 翻译API请求失败: 404 Client Error: Not Found for url: https://api.deepseek.com/v1/translate
+2025-03-05 11:44:20 - src.translation.deepseek_api - ERROR - 翻译API请求失败: 404 Client Error: Not Found for url: https://api.deepseek.com/v1/translate
+2025-03-05 13:05:43 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 13:06:05 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 13:07:25 - src.translation.deepseek_api - ERROR - 翻译API请求失败: HTTPSConnectionPool(host='api.deepseek.ai', port=443): Max retries exceeded with url: /v1/translate (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7b92780460>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-03-05 13:07:25 - src.translation.deepseek_api - ERROR - 翻译API请求失败: HTTPSConnectionPool(host='api.deepseek.ai', port=443): Max retries exceeded with url: /v1/translate (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7b92780160>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-03-05 13:07:25 - src.translation.deepseek_api - ERROR - 翻译API请求失败: HTTPSConnectionPool(host='api.deepseek.ai', port=443): Max retries exceeded with url: /v1/translate (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7b92780a00>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-03-05 13:24:04 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 13:24:12 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 13:25:26 - src.translation.deepseek_api - ERROR - 翻译API请求失败: 422 Client Error: Unprocessable Entity for url: https://api.deepseek.com/v1/chat/completions
+2025-03-05 13:25:26 - src.translation.deepseek_api - ERROR - 翻译API请求失败: 422 Client Error: Unprocessable Entity for url: https://api.deepseek.com/v1/chat/completions
+2025-03-05 13:25:26 - src.translation.deepseek_api - ERROR - 翻译API请求失败: 422 Client Error: Unprocessable Entity for url: https://api.deepseek.com/v1/chat/completions
+2025-03-05 14:16:32 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 14:16:41 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 14:19:30 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 17:15:18 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 17:15:40 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 17:18:28 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 17:20:29 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 17:20:37 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 17:23:23 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 17:25:13 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 17:25:20 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 17:28:03 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 17:30:57 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /Users/paroniasun/Downloads/28245167713-1-16.mp4, 691200 bytes wanted but 0 bytes read,at frame 27456/27458, at time 915.20/915.24 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2025-03-05 17:30:57 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /Users/paroniasun/Downloads/28245167713-1-16.mp4, 691200 bytes wanted but 0 bytes read,at frame 27457/27458, at time 915.23/915.24 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2025-03-05 17:39:41 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 17:39:49 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 17:42:32 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 17:43:45 - src.translation.translator - INFO - 翻译成功: 2553 字符
+2025-03-05 17:48:17 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 17:48:24 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 17:51:12 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 17:52:39 - src.translation.translator - INFO - 翻译成功: 2546 字符
+2025-03-05 18:14:01 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 18:14:10 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 18:16:47 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 18:18:04 - src.translation.translator - INFO - 翻译成功: 2546 字符
+2025-03-05 18:55:12 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 18:55:21 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 18:58:17 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 18:59:30 - src.translation.translator - INFO - 翻译成功: 2538 字符
+2025-03-05 19:23:17 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 19:23:43 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 19:23:51 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 19:26:22 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 19:27:36 - src.translation.translator - INFO - 翻译成功: 2555 字符
+2025-03-05 19:29:03 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 19:29:11 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 19:31:51 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 19:33:01 - src.translation.translator - INFO - 翻译成功: 2560 字符
+2025-03-05 19:35:54 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /Users/paroniasun/Downloads/28245167713-1-16.mp4, 691200 bytes wanted but 0 bytes read,at frame 27456/27458, at time 915.20/915.24 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2025-03-05 19:35:54 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /Users/paroniasun/Downloads/28245167713-1-16.mp4, 691200 bytes wanted but 0 bytes read,at frame 27457/27458, at time 915.23/915.24 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2025-03-05 19:40:34 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 19:40:42 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 19:43:15 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 19:44:42 - src.translation.translator - INFO - 翻译成功: 2552 字符
+2025-03-05 19:47:45 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /Users/paroniasun/Downloads/28245167713-1-16.mp4, 691200 bytes wanted but 0 bytes read,at frame 27456/27458, at time 915.20/915.24 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2025-03-05 19:47:45 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /Users/paroniasun/Downloads/28245167713-1-16.mp4, 691200 bytes wanted but 0 bytes read,at frame 27457/27458, at time 915.23/915.24 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2025-03-05 19:49:56 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 19:50:03 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 19:52:50 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 19:54:02 - src.translation.translator - INFO - 翻译成功: 2552 字符
+2025-03-05 19:57:01 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /Users/paroniasun/Downloads/28245167713-1-16.mp4, 691200 bytes wanted but 0 bytes read,at frame 27456/27458, at time 915.20/915.24 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2025-03-05 19:57:01 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /Users/paroniasun/Downloads/28245167713-1-16.mp4, 691200 bytes wanted but 0 bytes read,at frame 27457/27458, at time 915.23/915.24 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2025-03-05 20:19:31 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 20:19:40 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 20:22:07 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 20:23:24 - src.translation.translator - INFO - 翻译成功: 2540 字符
+2025-03-05 20:26:46 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /Users/paroniasun/Downloads/28245167713-1-16.mp4, 691200 bytes wanted but 0 bytes read,at frame 27456/27458, at time 915.20/915.24 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2025-03-05 20:26:46 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /Users/paroniasun/Downloads/28245167713-1-16.mp4, 691200 bytes wanted but 0 bytes read,at frame 27457/27458, at time 915.23/915.24 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2025-03-05 20:29:30 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.17.3 and <1.25.0 is required for this version of SciPy (detected version 1.26.4
+  warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+
+2025-03-05 20:29:38 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-03-05 20:32:28 - src.translation.translator - INFO - 翻译成功: 7945 字符
+2025-03-05 20:33:42 - src.translation.translator - INFO - 翻译成功: 2550 字符
+2025-03-05 20:35:49 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /Users/paroniasun/Downloads/28245167713-1-16.mp4, 691200 bytes wanted but 0 bytes read,at frame 27456/27458, at time 915.20/915.24 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+
+2025-03-05 20:35:49 - py.warnings - WARNING - /Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/moviepy/video/io/ffmpeg_reader.py:123: UserWarning: Warning: in file /Users/paroniasun/Downloads/28245167713-1-16.mp4, 691200 bytes wanted but 0 bytes read,at frame 27457/27458, at time 915.23/915.24 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+

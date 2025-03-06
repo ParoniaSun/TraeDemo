@@ -1,0 +1,10 @@
+PyQt6>=6.4.0
+whisper>=1.1.10
+requests>=2.28.0
+microsoft-edge-tts>=6.1.0
+moviepy>=1.0.3
+python-ffmpeg>=4.4
+pytest>=7.0.0
+python-dotenv>=0.19.0
+loguru>=0.6.0
+tqdm>=4.62.0
